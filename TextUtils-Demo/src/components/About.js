@@ -1,26 +1,14 @@
 import React, { useState } from 'react';
 
 export default function About(props) {
-    const [theme, setTheme] = useState({
-        color: '#042743',
-        backgroundColor: 'white'
-    });
-    const [btnText, setBtnText] = useState('Dark');
-
-    const toggleTheme = () => {
-        if (props.mode === 'dark') {
-            setTheme({
-                color: '#042743',
-                backgroundColor: 'white'
-            })
-            setBtnText('Light');
-        } else {
-            setTheme({
-                color: 'white',
-                backgroundColor: '#042743'
-            })
-            setBtnText('Dark');
-        }
+    // const [theme, setTheme] = useState({
+    //     color: '#042743',
+    //     backgroundColor: 'white'
+    // });
+    
+    let theme = {
+        color: props.mode === 'light' ? '#042743' : '#fff',
+        backgroundColor: props.mode === 'dark' ? '#042743' : '#fff'
     }
   return (
     <>
@@ -65,9 +53,9 @@ export default function About(props) {
             </div>
         </div>
     </div>
-    <div className="container my-3">
+    {/* <div className="container my-3">
         <button type="button" className="btn btn-primary" onClick={toggleTheme}>Toggle {btnText} Theme</button>
-    </div>
+    </div> */}
     </>
   )
 }
