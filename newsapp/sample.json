@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Times of India",
+            "title": "9 benefits of consuming 3 cloves of garlic before lunch - The Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL3dlYi1zdG9yaWVzLzktYmVuZWZpdHMtb2YtY29uc3VtaW5nLTMtY2xvdmVzLW9mLWdhcmxpYy1iZWZvcmUtbHVuY2gvcGhvdG9zdG9yeS8xMTIwOTg3NDUuY21z0gGaAWh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2xpZmUtc3R5bGUvaGVhbHRoLWZpdG5lc3Mvd2ViLXN0b3JpZXMvOS1iZW5lZml0cy1vZi1jb25zdW1pbmctMy1jbG92ZXMtb2YtZ2FybGljLWJlZm9yZS1sdW5jaC9waG90b3N0b3J5LzExMjA5ODc0NS5jbXM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T06:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBCTV18",
+            "title": "Apple's AI features rollout will miss upcoming iPhone software overhaul - CNBCTV18",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS90ZWNobm9sb2d5L2FwcGxlLWludGVsbGlnZW5jZS1haS1mZWF0dXJlcy1yb2xsb3V0LWRlbGF5LXVwY29taW5nLWlwaG9uZS1zb2Z0d2FyZS1vdmVyaGF1bC0xOTQ1MDc2Ny5odG3SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T06:02:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medianews4u.com"
+            },
+            "author": null,
+            "title": "HP India unveils ‘Be Unstoppable’ campaign to highlight AI PC innovation - MediaNews4U",
+            "description": "New Delhi: In the era of AI in PCs reshaping work, HP India launches 'Be Unstoppable with HP AI PCs'",
+            "url": "https://www.medianews4u.com/hp-india-unveils-be-unstoppable-campaign-to-highlight-ai-pc-innovation/",
+            "urlToImage": "https://www.medianews4u.com/wp-content/uploads/2024/07/HP-India.jpg",
+            "publishedAt": "2024-07-29T05:46:40Z",
+            "content": "New Delhi: In the era of AI in PCs reshaping work, HP India launches Be Unstoppable with HP AI PCs campaign by Lowe Lintas to educate the tech-savvy Gen-Z on the benefits of future workforce AI integ… [+2083 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Live Law - Indian Legal News",
+            "title": "BREAKING| Supreme Court Refuses To Stay HC Judgment Nullifying Bihar's 65% Quota Law At Present Stage,... - Live Law - Indian Legal News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5saXZlbGF3LmluL3RvcC1zdG9yaWVzL3N1cHJlbWUtY291cnQtcmVmdXNlcy10by1zdGF5LWhjLWp1ZGdtZW50LXN0cmlraW5nLWRvd24tYmloYXJzLTY1LXF1b3RhLWxhdy1hdC1wcmVzZW50LXN0YWdlLWFncmVlcy10by1oZWFyLXN0YXRlcy1hcHBlYWwtMjY0ODU00gGnAWh0dHBzOi8vd3d3LmxpdmVsYXcuaW4vYW1wL3RvcC1zdG9yaWVzL3N1cHJlbWUtY291cnQtcmVmdXNlcy10by1zdGF5LWhjLWp1ZGdtZW50LXN0cmlraW5nLWRvd24tYmloYXJzLTY1LXF1b3RhLWxhdy1hdC1wcmVzZW50LXN0YWdlLWFncmVlcy10by1oZWFyLXN0YXRlcy1hcHBlYWwtMjY0ODU0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T05:46:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Times of India",
+            "title": "Weakness and fatigue: 5 warning signs of blood cancer you shouldn't ignore - The Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL2hlYWx0aC1uZXdzL3dlYWtuZXNzLWFuZC1mYXRpZ3VlLTUtd2FybmluZy1zaWducy1vZi1ibG9vZC1jYW5jZXIteW91LXNob3VsZG50LWlnbm9yZS9hcnRpY2xlc2hvdy8xMTIwNzAzMDcuY21z0gGwAWh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2xpZmUtc3R5bGUvaGVhbHRoLWZpdG5lc3MvaGVhbHRoLW5ld3Mvd2Vha25lc3MtYW5kLWZhdGlndWUtNS13YXJuaW5nLXNpZ25zLW9mLWJsb29kLWNhbmNlci15b3Utc2hvdWxkbnQtaWdub3JlL2FtcF9hcnRpY2xlc2hvdy8xMTIwNzAzMDcuY21z?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T05:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Diya Sharma",
+            "title": "Garena Free Fire MAX redeem codes for July 29, 2024: Win free weapons, diamonds, and more rewards today - Moneycontrol",
+            "description": "Redeeming these codes unlocks various in-game rewards, including skins, weapons, and character upgrades.",
+            "url": "https://www.moneycontrol.com/technology/garena-free-fire-max-redeem-codes-for-july-29-2024-win-free-weapons-diamonds-and-more-rewards-today-article-12780833.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/07/20240729052847_garena5.jpg",
+            "publishedAt": "2024-07-29T05:29:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Delhi liquor policy case: CBI chargesheets chief minister Arvind Kejriwal - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9jYmktY2hhcmdlc2hlZXRzLWRlbGhpLWNtLWFydmluZC1rZWpyaXdhbC1pbi1hbGxlZ2VkLWV4Y2lzZS1wb2xpY3ktY2FzZS0xMDE3MjIyMjk4MjYzOTUuaHRtbNIBigFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9jYmktY2hhcmdlc2hlZXRzLWRlbGhpLWNtLWFydmluZC1rZWpyaXdhbC1pbi1hbGxlZ2VkLWV4Y2lzZS1wb2xpY3ktY2FzZS0xMDE3MjIyMjk4MjYzOTUtYW1wLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T05:12:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Moneycontrol",
+            "title": "Venezuela's Nicolas Maduro wins reelection for third term amid fraud allegations - Moneycontrol",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3Mvd29ybGQvdmVuZXp1ZWxhcy1uaWNvbGFzLW1hZHVyby13aW5zLXJlZWxlY3Rpb24tZm9yLXRoaXJkLXRlcm0tYW1pZC1mcmF1ZC1hbGxlZ2F0aW9ucy0xMjc4MDc3MS5odG1s0gGJAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy93b3JsZC92ZW5lenVlbGFzLW5pY29sYXMtbWFkdXJvLXdpbnMtcmVlbGVjdGlvbi1mb3ItdGhpcmQtdGVybS1hbWlkLWZyYXVkLWFsbGVnYXRpb25zLTEyNzgwNzcxLmh0bWwvYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T05:07:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mint",
+            "title": "Good news for Sunita Williams! Starliner completes docked hot fire test, but NASA yet to announce return date | Mint - Mint",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5saXZlbWludC5jb20vc2NpZW5jZS9uZXdzL2dvb2QtbmV3cy1mb3Itc3VuaXRhLXdpbGxpYW1zLXN0YXJsaW5lci1jb21wbGV0ZXMtZG9ja2VkLWhvdC1maXJlLXRlc3QtYnV0LW5hc2EteWV0LXRvLWFubm91bmNlLXJldHVybi1kYXRlLWlzcy0xMTcyMjIyNTQ2MjcwMC5odG1s0gGtAWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9zY2llbmNlL25ld3MvZ29vZC1uZXdzLWZvci1zdW5pdGEtd2lsbGlhbXMtc3RhcmxpbmVyLWNvbXBsZXRlcy1kb2NrZWQtaG90LWZpcmUtdGVzdC1idXQtbmFzYS15ZXQtdG8tYW5ub3VuY2UtcmV0dXJuLWRhdGUtaXNzL2FtcC0xMTcyMjIyNTQ2MjcwMC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T04:56:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ABP Live",
+            "title": "NYT Strands Answers For July 29: Having Trouble Guessing The Words? Here Are The Solutions - ABP Live",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL25ld3MuYWJwbGl2ZS5jb20vZ2FtaW5nL255dC1zdHJhbmRzLWFuc3dlcnMtdG9kYXktanVseS0yOS0yMDI0LXdvcmRzLXNvbHV0aW9uLXNwYW5ncmFtLXRvZGF5LWhvdy10by1wbGF5LXdhdGNoLXZpZGVvLXR1dG9yaWFsLTE3MDY0MjTSAZEBaHR0cHM6Ly9uZXdzLmFicGxpdmUuY29tL2dhbWluZy9ueXQtc3RyYW5kcy1hbnN3ZXJzLXRvZGF5LWp1bHktMjktMjAyNC13b3Jkcy1zb2x1dGlvbi1zcGFuZ3JhbS10b2RheS1ob3ctdG8tcGxheS13YXRjaC12aWRlby10dXRvcmlhbC0xNzA2NDI0L2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T04:47:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Times of India",
+            "title": "MLC 2024: Steven Smith, Marco Jansen star in Washington Freedom's title victory against San Francisco Unicorns - The Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMizQFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9zcG9ydHMvY3JpY2tldC9tYWpvci1sZWFndWUtY3JpY2tldC9tbGMtMjAyNC1zdGV2ZW4tc21pdGgtbWFyY28tamFuc2VuLXN0YXItaW4td2FzaGluZ3Rvbi1mcmVlZG9tcy10aXRsZS12aWN0b3J5LWFnYWluc3Qtc2FuLWZyYW5jaXNjby11bmljb3Jucy9hcnRpY2xlc2hvdy8xMTIwOTYyMjIuY21z0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T04:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Delhi Rau's IAS centre flooding LIVE: Delhi Police notice to MCD after 3 deaths - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9kZWxoaS1yYXVzLWlhcy1jZW50cmUtZmxvb2RpbmctbGl2ZS11cGRhdGVzLWp1bHktMjktMjAyNC1tY2Qtc2VhbHMtY29hY2hpbmctaW5zdGl0dXRlcy1iYXNlbWVudHMtMy1hc3BpcmFudHMtZGVhdGgtMTAxNzIyMjEwNzk4ODUxLmh0bWzSAbUBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvZGVsaGktcmF1cy1pYXMtY2VudHJlLWZsb29kaW5nLWxpdmUtdXBkYXRlcy1qdWx5LTI5LTIwMjQtbWNkLXNlYWxzLWNvYWNoaW5nLWluc3RpdHV0ZXMtYmFzZW1lbnRzLTMtYXNwaXJhbnRzLWRlYXRoLTEwMTcyMjIxMDc5ODg1MS1hbXAuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T04:25:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Times of India",
+            "title": "On picnic with family, former Shiv Sena leader's son collapses, dies during group clash at Virar resort - The Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L211bWJhaS9vbi1waWNuaWMtd2l0aC1mYW1pbHktZm9ybWVyLXNoaXYtc2VuYS1sZWFkZXJzLXNvbi1kaWVzLWR1cmluZy1ncm91cC1jbGFzaC1hdC12aXJhci1yZXNvcnQvYXJ0aWNsZXNob3cvMTEyMDk1NjIzLmNtc9IBqAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L211bWJhaS9vbi1waWNuaWMtd2l0aC1mYW1pbHktZm9ybWVyLXNoaXYtc2VuYS1sZWFkZXJzLXNvbi1kaWVzLWR1cmluZy1ncm91cC1jbGFzaC1hdC12aXJhci1yZXNvcnQvYW1wX2FydGljbGVzaG93LzExMjA5NTYyMy5jbXM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T04:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mint",
+            "title": "Punjab National Bank share prices rises 7% post Q1 results: Should you Buy, Sell or Hold the stock ? | Stock Market News - Mint",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L3N0b2NrLW1hcmtldC1uZXdzL3B1bmphYi1uYXRpb25hbC1iYW5rLXNoYXJlLXByaWNlLXJpc2VzLTUtcG9zdC1xMS1yZXN1bHRzLXNob3VsZC15b3UtYnV5LXNlbGwtb3ItaG9sZC10aGUtc3RvY2stMTE3MjIyMjUwODEzNzAuaHRtbNIBqAFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L3N0b2NrLW1hcmtldC1uZXdzL3B1bmphYi1uYXRpb25hbC1iYW5rLXNoYXJlLXByaWNlLXJpc2VzLTUtcG9zdC1xMS1yZXN1bHRzLXNob3VsZC15b3UtYnV5LXNlbGwtb3ItaG9sZC10aGUtc3RvY2svYW1wLTExNzIyMjI1MDgxMzcwLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T04:05:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Upstox",
+            "title": "ICICI Bank shares up 2% after Q1 net profit, NII surpass estimates - Upstox",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vdXBzdG94LmNvbS9uZXdzL21hcmtldC1uZXdzL2Vhcm5pbmdzL2ljaWNpLWJhbmstc2hhcmVzLXVwLTItYWZ0ZXItcTEtcmVzdWx0cy1zdXJwYXNzLWVzdGltYXRlcy9hcnRpY2xlLTEwNTQzNy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T04:03:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Entertainment Desk",
+            "title": "Khatron Ke Khiladi 14: Asim Riaz fails to do task, charges at Abhishek Kumar with a shoe; Rohit Shetty expels him, says ‘utha ke patak dunga’ - The Indian Express",
+            "description": "After an altercation with Rohit Shetty and other contestants, Asim Riaz got expelled from Khatron Ke Khiladi Season 14 for his bad behaviour and for disrespecting other contestants.",
+            "url": "https://indianexpress.com/article/entertainment/television/khatron-ke-khiladi-14-asim-riaz-fails-to-do-task-charges-at-abhishek-kumar-with-a-shoe-rohit-shetty-expels-him-says-utha-ke-patak-dunga-9481831/",
+            "urlToImage": "https://images.indianexpress.com/2024/07/Rohit_5e2afc.jpg",
+            "publishedAt": "2024-07-29T04:02:55Z",
+            "content": "Apart from daredevil stunts, the second episode of Khatron Ke Khiladi Season 14 was full of drama. The episode saw contestant Asim Riaz getting expelled after he had an altercation with the shows hos… [+3847 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mint",
+            "title": "Hyderabad: Former Chief Secretary Somesh Kumar, IIT professor, three others booked for GST violations - Mint",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYS90ZWxhbmdhbmEtaHlkZXJhYmFkLWZvcm1lci1jaGllZi1zZWNyZXRhcnktc29tZXNoLWt1bWFyLWlpdC1wcm9mZXNzb3ItdGhyZWUtb3RoZXJzLWJvb2tlZC1mb3ItZ3N0LXZpb2xhdGlvbnMtMTE3MjIyMjUyNzIxNzkuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T04:01:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Times of India",
+            "title": "Stock market today: BSE Sensex hits lifetime high; Nifty50 just shy of 25,0o0 - The Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMixAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9idXNpbmVzcy9pbmRpYS1idXNpbmVzcy9zdG9jay1tYXJrZXQtdG9kYXktYnNlLXNlbnNleC1uaWZ0eTUwLWp1bHktMjktMjAyNC1kYWxhbC1zdHJlZXQtaW5kaWFuLWVxdWl0aWVzLWVhcm5pbmdzLXNlYXNvbi1nbG9iYWwtbWFya2V0cy9hcnRpY2xlc2hvdy8xMTIwOTQwMzMuY21z0gHIAWh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2J1c2luZXNzL2luZGlhLWJ1c2luZXNzL3N0b2NrLW1hcmtldC10b2RheS1ic2Utc2Vuc2V4LW5pZnR5NTAtanVseS0yOS0yMDI0LWRhbGFsLXN0cmVldC1pbmRpYW4tZXF1aXRpZXMtZWFybmluZ3Mtc2Vhc29uLWdsb2JhbC1tYXJrZXRzL2FtcF9hcnRpY2xlc2hvdy8xMTIwOTQwMzMuY21z?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T03:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV",
+            "title": "1 Killed, 6 Injured In Mass Shooting At Park In New York: Report - NDTV",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvMS1raWxsZWQtNi1pbmp1cmVkLWluLW1hc3Mtc2hvb3RpbmctYXQtcGFyay1pbi1uZXcteW9yay1yZXBvcnQtNjIxMTM3N9IBbGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvMS1raWxsZWQtNi1pbmp1cmVkLWluLW1hc3Mtc2hvb3RpbmctYXQtcGFyay1pbi1uZXcteW9yay1yZXBvcnQtNjIxMTM3Ny9hbXAvMQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T03:51:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "India.com",
+            "title": "Paris Olympics 2024: Manu Bhaker, PV Sindhu Headline India’s Day 2 Show – In Pictures - India.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmluZGlhLmNvbS9waG90b3Mvc3BvcnRzL3BhcmlzLW9seW1waWNzLTIwMjQtbWFudS1iaGFrZXItcHYtc2luZGh1LWhlYWRsaW5lLWluZGlhcy1kYXktMi1zaG93LWluLXBpY3R1cmVzLTM0MTkwNi_SAYABaHR0cHM6Ly93d3cuaW5kaWEuY29tL3Bob3Rvcy9zcG9ydHMvcGFyaXMtb2x5bXBpY3MtMjAyNC1tYW51LWJoYWtlci1wdi1zaW5kaHUtaGVhZGxpbmUtaW5kaWFzLWRheS0yLXNob3ctaW4tcGljdHVyZXMtMzQxOTA2L2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T03:19:37Z",
+            "content": null
+        }
+    ]
+}
