@@ -7,7 +7,7 @@ const NoteState = (props) => {
   const [notes, setNotes] = useState(notesData);
   const headers = new Headers();
   headers.append("Content-Type", "application/json");
-  headers.append("auth-token", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjZkNThkNDFkMThkYzljNjU1YjExM2RiIn0sImlhdCI6MTcyODkyOTU0Nn0.n4AWcnazHZiRc10Drr6QcZl_dNI67DqR3oy5gb7Vp5E");
+  headers.append("auth-token", localStorage.getItem('token'));
 
   // Get all notes
   const getAllNotes = async (req, res) => {
@@ -60,7 +60,7 @@ const NoteState = (props) => {
 
     // logic to edit in client
     const noteIndexToBeUpdated = newNotes.findIndex(element => element._id === note._id);
-    if (noteIndexToBeUpdated > 0) {
+    if (noteIndexToBeUpdated > -1) {
       newNotes[noteIndexToBeUpdated].title = note.title;
       newNotes[noteIndexToBeUpdated].description = note.description;
       newNotes[noteIndexToBeUpdated].tag = note.tag;

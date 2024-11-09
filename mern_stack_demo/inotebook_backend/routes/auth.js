@@ -16,10 +16,11 @@ router.post('/createUser', [
     body('email', 'Enter a valid email').isEmail(),
     body('password', 'Password must be at least 8 characters').isLength({ min: 8 })
 ], async (req, res) => {
+    let success = false;
     // if there are errors, return bad request & the errors
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
-        return res.status(400).json({ error: errors.array() });
+        return res.status(400).json({success, error: errors.array() });
     }
     // const userData = User(req.body);
     // userData.save();
@@ -30,7 +31,7 @@ router.post('/createUser', [
         console.log('userdata------------', user);
         
         if (user) {
-            return res.status(400).json({message: 'User with this email already exists'});
+            return res.status(400).json({success, message: 'User with this email already exists'});
         }
 
         const salt = await bcrypt.genSalt(10);
@@ -49,9 +50,9 @@ router.post('/createUser', [
         }
         const authToken = jwt.sign(responseData, JWT_SECRET);
         console.log('jwtdataa--------', authToken);
-        
+        success = true;
         // res.json(user);
-        res.json(authToken);
+        res.json({success, authToken});
         // .then(user => res.json(user))
         // .catch(error => {
         //     console.log('errorrrrrrrrrrr', error.message);
@@ -68,10 +69,11 @@ router.post('/login', [
     body('email', 'Enter a valid email').exists().isEmail(),
     body('password', 'Invalid password').exists()
 ], async (req, res) => {
+    let success = false;
     // if there are errors, return bad request or the errors
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
-        return res.status(400).json({message: errors.array()});
+        return res.status(400).json({success, message: errors.array()});
     }
 
     const { email, password } = req.body;
@@ -82,12 +84,12 @@ router.post('/login', [
         console.log('userdata--=======', user);
         
         if (!user) {
-            return res.status(400).json({message: 'Invalid username/password!!'});
+            return res.status(400).json({success, message: 'Invalid username/password!!'});
         }
 
         const passwordMatched = await bcrypt.compare(password, user.password);
         if (!passwordMatched) {
-            return res.status(400).json ({message: 'Invalid username/password!!'});
+            return res.status(400).json ({success: success, message: 'Invalid username/password!!'});
         }
 
         const data = {
@@ -97,7 +99,8 @@ router.post('/login', [
         }
 
         const authToken = jwt.sign(data, JWT_SECRET);
-        res.json(authToken);
+        success = true;
+        res.json({success, authToken});
     } catch (err) {
         return res.status(500).send('Internal server error!!');
     }

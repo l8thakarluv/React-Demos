@@ -2,16 +2,23 @@ import React, { useContext, useEffect, useRef, useState } from 'react'
 import noteContext from '../contexts/notes/noteContext';
 import NoteItem from './NoteItem';
 import AddNote from './AddNote';
+import alertContext from '../contexts/alert/alertContext';
+import { useNavigate } from 'react-router-dom';
 
 const Notes = () => {
   const notesContext = useContext(noteContext);
+  const navigate = useNavigate();
   const { notes, getAllNotes, updateNote } = notesContext;
 
   const [note, setNote] = useState({Id: '', title: '', description: '', tag: ''})
 
   // empty array means call useeffect only once on init
   useEffect(() => {
-    getAllNotes();
+    if (localStorage.getItem('token')) {
+      getAllNotes();
+    } else {
+      navigate('/login');
+    }
     // eslint-disable-next-line
   }, []);
 
